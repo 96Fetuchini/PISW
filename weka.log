@@ -1,0 +1,10 @@
+2017-10-21 09:08:10 weka.gui.GUIChooserApp main
+INFO: Logging started
+2017-10-21 09:08:12 weka.gui.GenericObjectEditor registerEditors
+INFO: ---Registering Weka Editors---
+2017-10-21 09:08:13 weka.experiment.DatabaseUtils initialize
+WARNING: Trying to add database driver (JDBC): jdbc.idbDriver - Warning, not in CLASSPATH?
+2017-10-21 09:08:13 weka.gui.beans.BeansProperties loadProperties
+INFO: [KnowledgeFlow] Loading properties and plugins...
+2017-10-21 09:08:13 weka.gui.beans.KnowledgeFlowApp init
+INFO: [KnowledgeFlow] Initializing KF...
